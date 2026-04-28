@@ -1,3 +1,6 @@
 _submission/
 *.key
 *.mov
+
+/.quarto/
+**/*.quarto_ipynb

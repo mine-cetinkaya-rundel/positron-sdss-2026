@@ -1,0 +1,15 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/modules/01-hello-positron.html",
+      "/modules/02-explore.html",
+      "/modules/03-organize.html",
+      "/modules/04-quarto.html",
+      "/modules/05-r.html",
+      "/modules/06-python.html",
+      "/modules/07-customize.html",
+      "/modules/08-beyond.html"
+    ]
+  }
+]

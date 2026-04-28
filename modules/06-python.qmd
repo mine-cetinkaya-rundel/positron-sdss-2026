@@ -1,0 +1,7 @@
+---
+title: Python
+description: Module 5
+image: images/05-python.png
+---
+
+{{< include _slides.md >}}

@@ -1,0 +1,9 @@
+---
+title: Hello Positron
+description: Module 1
+image: images/01-hello-positron.png
+---
+
+{{< include _slides.md >}}
+
+Install Positron at <https://positron.posit.co/download.html>

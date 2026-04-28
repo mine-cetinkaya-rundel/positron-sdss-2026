@@ -1,0 +1,27 @@
+---
+title: Getting Started with Positron
+subtitle: A Next-Generation IDE for data science
+author: Mine Çetinkaya-Rundel <br> [bit.ly/positron-sdss](https://bit.ly/positron-sdss)
+listing:
+  id: modules
+  contents: modules/*.qmd
+  type: grid
+  sort: filename
+---
+
+## Modules
+
+::: {#modules}
+:::
+
+## Instructor
+
+[Mine Çetinkaya-Rundel](https://mine-cr.com/) is a Professor of the Practice in the Department of Statistical Science at Duke University and a Senior Developer Advocate at Posit PBC.
+
+## Acknowledgments
+
+This workshop is based on the [Positron Workshop](https://posit-dev.github.io/positron-workshop/) created by Jenny Bryan, Mine Çetinkaya-Rundel, Julia Silge, Charlotte Wickham, and Hadley Wickham.
+
+## License
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).

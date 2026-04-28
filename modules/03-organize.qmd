@@ -1,0 +1,19 @@
+---
+title: Organization
+description: Module 3
+image: images/03-organize.png
+---
+
+{{< include _slides.md >}}
+
+Git repo URL:
+
+```default
+https://github.com/posit-dev/positron-workshop-project
+```
+
+If you don't have Git installed, you can get the example project via usethis:
+
+```r
+usethis::use_course("posit-dev/positron-workshop-project")
+```

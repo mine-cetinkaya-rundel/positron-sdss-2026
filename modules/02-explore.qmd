@@ -1,0 +1,20 @@
+---
+title: Exploring Positron
+description: Module 2
+image: images/02-explore.png
+---
+
+{{< include _slides.md >}}
+
+## Bingo Card
+
+[Example card](/_bingo/bingo-01.pdf)
+
+You'll receive your own unique card in the workshop.
+ 
+::: {.callout-warning collapse="true"}
+## Bingo Solutions: Don't peek!
+
+[Solutions](/bingo-solutions/index.qmd)
+
+:::

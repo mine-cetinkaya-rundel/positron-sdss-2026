@@ -1,0 +1,7 @@
+---
+title: Beyond
+description: Module 8
+image: images/08-beyond.png
+---
+
+{{< include _slides.md >}}

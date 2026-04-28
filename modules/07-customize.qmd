@@ -1,0 +1,7 @@
+---
+title: Customization and extensions
+description: Module 7
+image: images/07-customize.png
+---
+
+{{< include _slides.md >}}

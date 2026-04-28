@@ -1,0 +1,7 @@
+---
+title: Quarto
+description: Module 4
+image: images/04-quarto.png
+---
+
+{{< include _slides.md >}}

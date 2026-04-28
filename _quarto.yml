@@ -1,0 +1,31 @@
+project:
+  type: website
+  resources: 
+    - "modules/images/*.png"
+
+website:
+  favicon: images/positron-icon.svg
+  page-navigation: true
+  site-url: https://mine-cetinkaya-rundel.github.io/positron-workshop-umn/
+  title: Doing data science in Positron
+  description: Half-day introduction to Positron for R/RStudio users
+  repo-url: https://github.com/mine-cetinkaya-rundel/positron-workshop-umn
+  page-footer:
+    center:
+      - icon: github
+        href: https://github.com/posit-dev/positron-workshop
+    right: "This page is built with 💙 and [Quarto](https://quarto.org/)."
+  open-graph: true
+  navbar:
+    tools:
+      - icon: github
+        href: https://github.com/mine-cetinkaya-rundel/positron-workshop-umn
+    contents:
+      - href: index.qmd
+        text: Home
+    
+format:
+  html:
+    css: positron-settings.css
+    code-overflow: wrap
+
